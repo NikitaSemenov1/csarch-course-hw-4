@@ -1,0 +1,1326 @@
+[Thread 1]  Guest 1 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 1]  Guest 1 has checked into a room
+[Thread 2]  Guest 2 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 2]  Guest 2 has checked into a room
+[Thread 0]  Guest 2 has left the hotel
+[Thread 3]  Guest 3 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 3]  Guest 3 has checked into a room
+[Thread 4]  Guest 4 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 0]  Guest 3 has left the hotel
+[Thread 4]  Guest 4 has checked into a room
+[Thread 5]  Guest 5 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 0]  Guest 4 has left the hotel
+[Thread 5]  Guest 5 has checked into a room
+[Thread 0]  Guest 5 has left the hotel
+[Thread 0]  Guest 1 has left the hotel
+[Thread 2]  Guest 6 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 2]  Guest 6 has checked into a room
+[Thread 0]  Guest 6 has left the hotel
+[Thread 1]  Guest 7 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 1]  Guest 7 has checked into a room
+[Thread 0]  Guest 7 has left the hotel
+[Thread 3]  Guest 8 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 3]  Guest 8 has checked into a room
+[Thread 0]  Guest 8 has left the hotel
+[Thread 4]  Guest 9 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 4]  Guest 9 has checked into a room
+[Thread 5]  Guest 10 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 5]  Guest 10 has checked into a room
+[Thread 0]  Guest 10 has left the hotel
+[Thread 0]  Guest 9 has left the hotel
+[Thread 2]  Guest 11 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 2]  Guest 11 has checked into a room
+[Thread 0]  Guest 11 has left the hotel
+[Thread 1]  Guest 12 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 1]  Guest 12 has checked into a room
+[Thread 0]  Guest 12 has left the hotel
+[Thread 3]  Guest 13 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 3]  Guest 13 has checked into a room
+[Thread 4]  Guest 14 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 4]  Guest 14 has checked into a room
+[Thread 0]  Guest 14 has left the hotel
+[Thread 5]  Guest 15 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 5]  Guest 15 has checked into a room
+[Thread 0]  Guest 15 has left the hotel
+[Thread 0]  Guest 13 has left the hotel
+[Thread 2]  Guest 16 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 2]  Guest 16 has checked into a room
+[Thread 0]  Guest 16 has left the hotel
+[Thread 1]  Guest 17 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 1]  Guest 17 has checked into a room
+[Thread 0]  Guest 17 has left the hotel
+[Thread 4]  Guest 18 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 4]  Guest 18 has checked into a room
+[Thread 3]  Guest 19 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 3]  Guest 19 has checked into a room
+[Thread 0]  Guest 19 has left the hotel
+[Thread 5]  Guest 20 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 5]  Guest 20 has checked into a room
+[Thread 0]  Guest 20 has left the hotel
+[Thread 0]  Guest 18 has left the hotel
+[Thread 2]  Guest 21 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 2]  Guest 21 has checked into a room
+[Thread 0]  Guest 21 has left the hotel
+[Thread 1]  Guest 22 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 1]  Guest 22 has checked into a room
+[Thread 0]  Guest 22 has left the hotel
+[Thread 4]  Guest 23 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 5]  Guest 25 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 5]  Guest 25 has checked into a room
+[Thread 4]  Guest 23 has checked into a room
+[Thread 3]  Guest 24 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 3]  Guest 24 has checked into a room
+[Thread 0]  Guest 23 has left the hotel
+[Thread 0]  Guest 24 has left the hotel
+[Thread 0]  Guest 25 has left the hotel
+[Thread 2]  Guest 26 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 2]  Guest 26 has checked into a room
+[Thread 1]  Guest 27 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 1]  Guest 27 has checked into a room
+[Thread 0]  Guest 27 has left the hotel
+[Thread 5]  Guest 28 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 5]  Guest 28 has checked into a room
+[Thread 0]  Guest 28 has left the hotel
+[Thread 4]  Guest 29 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 4]  Guest 29 has checked into a room
+[Thread 0]  Guest 29 has left the hotel
+[Thread 3]  Guest 30 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 3]  Guest 30 has checked into a room
+[Thread 0]  Guest 30 has left the hotel
+[Thread 0]  Guest 26 has left the hotel
+[Thread 2]  Guest 31 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 2]  Guest 31 has checked into a room
+[Thread 1]  Guest 32 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 1]  Guest 32 has checked into a room
+[Thread 0]  Guest 32 has left the hotel
+[Thread 5]  Guest 33 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 5]  Guest 33 has checked into a room
+[Thread 0]  Guest 33 has left the hotel
+[Thread 4]  Guest 34 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 4]  Guest 34 has checked into a room
+[Thread 3]  Guest 35 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 3]  Guest 35 has checked into a room
+[Thread 0]  Guest 34 has left the hotel
+[Thread 0]  Guest 35 has left the hotel
+[Thread 0]  Guest 31 has left the hotel
+[Thread 1]  Guest 36 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 1]  Guest 36 has checked into a room
+[Thread 0]  Guest 36 has left the hotel
+[Thread 2]  Guest 37 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 2]  Guest 37 has checked into a room
+[Thread 0]  Guest 37 has left the hotel
+[Thread 5]  Guest 38 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 5]  Guest 38 has checked into a room
+[Thread 4]  Guest 39 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 3]  Guest 40 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 0]  Guest 38 has left the hotel
+[Thread 3]  Guest 40 has checked into a room
+[Thread 4]  Guest 39 has checked into a room
+[Thread 0]  Guest 40 has left the hotel
+[Thread 0]  Guest 39 has left the hotel
+[Thread 1]  Guest 41 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 1]  Guest 41 has checked into a room
+[Thread 0]  Guest 41 has left the hotel
+[Thread 2]  Guest 42 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 2]  Guest 42 has checked into a room
+[Thread 0]  Guest 42 has left the hotel
+[Thread 5]  Guest 43 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 5]  Guest 43 has checked into a room
+[Thread 3]  Guest 44 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 3]  Guest 44 has checked into a room
+[Thread 4]  Guest 45 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 4]  Guest 45 has checked into a room
+[Thread 0]  Guest 44 has left the hotel
+[Thread 0]  Guest 45 has left the hotel
+[Thread 0]  Guest 43 has left the hotel
+[Thread 1]  Guest 46 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 1]  Guest 46 has checked into a room
+[Thread 0]  Guest 46 has left the hotel
+[Thread 2]  Guest 47 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 2]  Guest 47 has checked into a room
+[Thread 5]  Guest 48 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 5]  Guest 48 has checked into a room
+[Thread 4]  Guest 49 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 4]  Guest 49 has checked into a room
+[Thread 3]  Guest 50 has come to the hotel to live for 1 seconds. There are 3 guests in the hotel
+[Thread 3]  Guest 50 has checked into a room
+[Thread 0]  Guest 48 has left the hotel
+[Thread 0]  Guest 50 has left the hotel
+[Thread 0]  Guest 49 has left the hotel
+[Thread 0]  Guest 47 has left the hotel
+[Thread 2]  Guest 51 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 2]  Guest 51 has checked into a room
+[Thread 0]  Guest 51 has left the hotel
+[Thread 1]  Guest 52 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 1]  Guest 52 has checked into a room
+[Thread 0]  Guest 52 has left the hotel
+[Thread 5]  Guest 53 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 5]  Guest 53 has checked into a room
+[Thread 4]  Guest 54 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 4]  Guest 54 has checked into a room
+[Thread 3]  Guest 55 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 3]  Guest 55 has checked into a room
+[Thread 0]  Guest 54 has left the hotel
+[Thread 0]  Guest 55 has left the hotel
+[Thread 0]  Guest 53 has left the hotel
+[Thread 2]  Guest 56 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 2]  Guest 56 has checked into a room
+[Thread 1]  Guest 57 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 1]  Guest 57 has checked into a room
+[Thread 0]  Guest 57 has left the hotel
+[Thread 5]  Guest 58 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 5]  Guest 58 has checked into a room
+[Thread 0]  Guest 58 has left the hotel
+[Thread 3]  Guest 59 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 3]  Guest 59 has checked into a room
+[Thread 0]  Guest 59 has left the hotel
+[Thread 4]  Guest 60 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 4]  Guest 60 has checked into a room
+[Thread 0]  Guest 60 has left the hotel
+[Thread 0]  Guest 56 has left the hotel
+[Thread 2]  Guest 61 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 2]  Guest 61 has checked into a room
+[Thread 1]  Guest 62 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 1]  Guest 62 has checked into a room
+[Thread 0]  Guest 62 has left the hotel
+[Thread 5]  Guest 63 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 5]  Guest 63 has checked into a room
+[Thread 0]  Guest 63 has left the hotel
+[Thread 3]  Guest 64 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 3]  Guest 64 has checked into a room
+[Thread 0]  Guest 64 has left the hotel
+[Thread 4]  Guest 65 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 4]  Guest 65 has checked into a room
+[Thread 0]  Guest 65 has left the hotel
+[Thread 0]  Guest 61 has left the hotel
+[Thread 2]  Guest 66 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 2]  Guest 66 has checked into a room
+[Thread 1]  Guest 67 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 1]  Guest 67 has checked into a room
+[Thread 0]  Guest 67 has left the hotel
+[Thread 5]  Guest 68 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 5]  Guest 68 has checked into a room
+[Thread 3]  Guest 69 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 3]  Guest 69 has checked into a room
+[Thread 0]  Guest 68 has left the hotel
+[Thread 4]  Guest 70 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 4]  Guest 70 has checked into a room
+[Thread 0]  Guest 70 has left the hotel
+[Thread 0]  Guest 69 has left the hotel
+[Thread 0]  Guest 66 has left the hotel
+[Thread 2]  Guest 71 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 2]  Guest 71 has checked into a room
+[Thread 0]  Guest 71 has left the hotel
+[Thread 1]  Guest 72 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 1]  Guest 72 has checked into a room
+[Thread 0]  Guest 72 has left the hotel
+[Thread 5]  Guest 73 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 3]  Guest 74 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 3]  Guest 74 has checked into a room
+[Thread 5]  Guest 73 has checked into a room
+[Thread 0]  Guest 74 has left the hotel
+[Thread 4]  Guest 75 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 4]  Guest 75 has checked into a room
+[Thread 0]  Guest 75 has left the hotel
+[Thread 0]  Guest 73 has left the hotel
+[Thread 2]  Guest 76 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 2]  Guest 76 has checked into a room
+[Thread 1]  Guest 77 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 1]  Guest 77 has checked into a room
+[Thread 0]  Guest 77 has left the hotel
+[Thread 5]  Guest 78 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 5]  Guest 78 has checked into a room
+[Thread 3]  Guest 79 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 3]  Guest 79 has checked into a room
+[Thread 4]  Guest 80 has come to the hotel to live for 1 seconds. There are 3 guests in the hotel
+[Thread 4]  Guest 80 has checked into a room
+[Thread 0]  Guest 78 has left the hotel
+[Thread 0]  Guest 80 has left the hotel
+[Thread 0]  Guest 79 has left the hotel
+[Thread 0]  Guest 76 has left the hotel
+[Thread 2]  Guest 81 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 2]  Guest 81 has checked into a room
+[Thread 0]  Guest 81 has left the hotel
+[Thread 1]  Guest 82 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 1]  Guest 82 has checked into a room
+[Thread 5]  Guest 83 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 5]  Guest 83 has checked into a room
+[Thread 3]  Guest 84 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 3]  Guest 84 has checked into a room
+[Thread 0]  Guest 83 has left the hotel
+[Thread 4]  Guest 85 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 4]  Guest 85 has checked into a room
+[Thread 0]  Guest 85 has left the hotel
+[Thread 0]  Guest 82 has left the hotel
+[Thread 0]  Guest 84 has left the hotel
+[Thread 2]  Guest 86 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 2]  Guest 86 has checked into a room
+[Thread 0]  Guest 86 has left the hotel
+[Thread 1]  Guest 87 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 1]  Guest 87 has checked into a room
+[Thread 5]  Guest 88 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 5]  Guest 88 has checked into a room
+[Thread 3]  Guest 89 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 3]  Guest 89 has checked into a room
+[Thread 0]  Guest 88 has left the hotel
+[Thread 4]  Guest 90 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 4]  Guest 90 has checked into a room
+[Thread 0]  Guest 90 has left the hotel
+[Thread 0]  Guest 87 has left the hotel
+[Thread 0]  Guest 89 has left the hotel
+[Thread 2]  Guest 91 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 2]  Guest 91 has checked into a room
+[Thread 1]  Guest 92 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 1]  Guest 92 has checked into a room
+[Thread 0]  Guest 91 has left the hotel
+[Thread 5]  Guest 93 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 5]  Guest 93 has checked into a room
+[Thread 3]  Guest 94 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 3]  Guest 94 has checked into a room
+[Thread 0]  Guest 93 has left the hotel
+[Thread 4]  Guest 95 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 4]  Guest 95 has checked into a room
+[Thread 0]  Guest 95 has left the hotel
+[Thread 0]  Guest 94 has left the hotel
+[Thread 0]  Guest 92 has left the hotel
+[Thread 2]  Guest 96 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 2]  Guest 96 has checked into a room
+[Thread 0]  Guest 96 has left the hotel
+[Thread 1]  Guest 97 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 1]  Guest 97 has checked into a room
+[Thread 0]  Guest 97 has left the hotel
+[Thread 5]  Guest 98 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 5]  Guest 98 has checked into a room
+[Thread 3]  Guest 99 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 3]  Guest 99 has checked into a room
+[Thread 0]  Guest 99 has left the hotel
+[Thread 4]  Guest 100 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 4]  Guest 100 has checked into a room
+[Thread 0]  Guest 100 has left the hotel
+[Thread 0]  Guest 98 has left the hotel
+[Thread 2]  Guest 101 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 2]  Guest 101 has checked into a room
+[Thread 1]  Guest 102 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 1]  Guest 102 has checked into a room
+[Thread 0]  Guest 102 has left the hotel
+[Thread 5]  Guest 103 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 5]  Guest 103 has checked into a room
+[Thread 0]  Guest 103 has left the hotel
+[Thread 3]  Guest 104 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 4]  Guest 105 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 4]  Guest 105 has checked into a room
+[Thread 3]  Guest 104 has checked into a room
+[Thread 0]  Guest 105 has left the hotel
+[Thread 0]  Guest 101 has left the hotel
+[Thread 0]  Guest 104 has left the hotel
+[Thread 2]  Guest 106 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 2]  Guest 106 has checked into a room
+[Thread 5]  Guest 107 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 1]  Guest 108 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 1]  Guest 108 has checked into a room
+[Thread 5]  Guest 107 has checked into a room
+[Thread 0]  Guest 108 has left the hotel
+[Thread 4]  Guest 109 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 4]  Guest 109 has checked into a room
+[Thread 3]  Guest 110 has come to the hotel to live for 1 seconds. There are 3 guests in the hotel
+[Thread 3]  Guest 110 has checked into a room
+[Thread 0]  Guest 109 has left the hotel
+[Thread 0]  Guest 110 has left the hotel
+[Thread 0]  Guest 107 has left the hotel
+[Thread 0]  Guest 106 has left the hotel
+[Thread 1]  Guest 111 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 5]  Guest 112 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 1]  Guest 111 has checked into a room
+[Thread 4]  Guest 114 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 5]  Guest 112 has checked into a room
+[Thread 2]  Guest 113 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 2]  Guest 113 has checked into a room
+[Thread 4]  Guest 114 has checked into a room
+[Thread 0]  Guest 111 has left the hotel
+[Thread 3]  Guest 115 has come to the hotel to live for 1 seconds. There are 3 guests in the hotel
+[Thread 3]  Guest 115 has checked into a room
+[Thread 0]  Guest 115 has left the hotel
+[Thread 0]  Guest 113 has left the hotel
+[Thread 0]  Guest 112 has left the hotel
+[Thread 0]  Guest 114 has left the hotel
+[Thread 1]  Guest 116 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 1]  Guest 116 has checked into a room
+[Thread 0]  Guest 116 has left the hotel
+[Thread 5]  Guest 117 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 5]  Guest 117 has checked into a room
+[Thread 0]  Guest 117 has left the hotel
+[Thread 2]  Guest 118 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 2]  Guest 118 has checked into a room
+[Thread 4]  Guest 119 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 4]  Guest 119 has checked into a room
+[Thread 3]  Guest 120 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 3]  Guest 120 has checked into a room
+[Thread 0]  Guest 118 has left the hotel
+[Thread 0]  Guest 120 has left the hotel
+[Thread 0]  Guest 119 has left the hotel
+[Thread 1]  Guest 121 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 1]  Guest 121 has checked into a room
+[Thread 0]  Guest 121 has left the hotel
+[Thread 3]  Guest 122 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 3]  Guest 122 has checked into a room
+[Thread 5]  Guest 123 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 4]  Guest 125 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 4]  Guest 125 has checked into a room
+[Thread 0]  Guest 122 has left the hotel
+[Thread 5]  Guest 123 has checked into a room
+[Thread 2]  Guest 124 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 2]  Guest 124 has checked into a room
+[Thread 0]  Guest 123 has left the hotel
+[Thread 0]  Guest 124 has left the hotel
+[Thread 0]  Guest 125 has left the hotel
+[Thread 1]  Guest 126 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 1]  Guest 126 has checked into a room
+[Thread 0]  Guest 126 has left the hotel
+[Thread 3]  Guest 127 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 3]  Guest 127 has checked into a room
+[Thread 4]  Guest 128 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 4]  Guest 128 has checked into a room
+[Thread 0]  Guest 127 has left the hotel
+[Thread 5]  Guest 129 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 5]  Guest 129 has checked into a room
+[Thread 0]  Guest 129 has left the hotel
+[Thread 2]  Guest 130 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 2]  Guest 130 has checked into a room
+[Thread 0]  Guest 130 has left the hotel
+[Thread 0]  Guest 128 has left the hotel
+[Thread 1]  Guest 131 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 1]  Guest 131 has checked into a room
+[Thread 0]  Guest 131 has left the hotel
+[Thread 3]  Guest 132 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 3]  Guest 132 has checked into a room
+[Thread 4]  Guest 133 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 4]  Guest 133 has checked into a room
+[Thread 0]  Guest 132 has left the hotel
+[Thread 5]  Guest 134 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 5]  Guest 134 has checked into a room
+[Thread 0]  Guest 134 has left the hotel
+[Thread 2]  Guest 135 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 2]  Guest 135 has checked into a room
+[Thread 0]  Guest 135 has left the hotel
+[Thread 0]  Guest 133 has left the hotel
+[Thread 1]  Guest 136 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 4]  Guest 137 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 4]  Guest 137 has checked into a room
+[Thread 1]  Guest 136 has checked into a room
+[Thread 0]  Guest 137 has left the hotel
+[Thread 3]  Guest 138 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 3]  Guest 138 has checked into a room
+[Thread 0]  Guest 138 has left the hotel
+[Thread 5]  Guest 139 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 5]  Guest 139 has checked into a room
+[Thread 0]  Guest 139 has left the hotel
+[Thread 2]  Guest 140 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 2]  Guest 140 has checked into a room
+[Thread 0]  Guest 140 has left the hotel
+[Thread 0]  Guest 136 has left the hotel
+[Thread 1]  Guest 141 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 4]  Guest 143 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 1]  Guest 141 has checked into a room
+[Thread 3]  Guest 142 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 3]  Guest 142 has checked into a room
+[Thread 4]  Guest 143 has checked into a room
+[Thread 0]  Guest 142 has left the hotel
+[Thread 5]  Guest 144 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 5]  Guest 144 has checked into a room
+[Thread 0]  Guest 144 has left the hotel
+[Thread 2]  Guest 145 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 2]  Guest 145 has checked into a room
+[Thread 0]  Guest 145 has left the hotel
+[Thread 0]  Guest 141 has left the hotel
+[Thread 0]  Guest 143 has left the hotel
+[Thread 1]  Guest 146 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 1]  Guest 146 has checked into a room
+[Thread 0]  Guest 146 has left the hotel
+[Thread 2]  Guest 147 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 2]  Guest 147 has checked into a room
+[Thread 5]  Guest 149 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 5]  Guest 149 has checked into a room
+[Thread 3]  Guest 150 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 3]  Guest 150 has checked into a room
+[Thread 4]  Guest 148 has come to the hotel to live for 1 seconds. There are 3 guests in the hotel
+[Thread 4]  Guest 148 has checked into a room
+[Thread 0]  Guest 147 has left the hotel
+[Thread 0]  Guest 148 has left the hotel
+[Thread 0]  Guest 150 has left the hotel
+[Thread 0]  Guest 149 has left the hotel
+[Thread 1]  Guest 151 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 1]  Guest 151 has checked into a room
+[Thread 0]  Guest 151 has left the hotel
+[Thread 5]  Guest 152 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 5]  Guest 152 has checked into a room
+[Thread 0]  Guest 152 has left the hotel
+[Thread 2]  Guest 153 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 2]  Guest 153 has checked into a room
+[Thread 4]  Guest 155 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 4]  Guest 155 has checked into a room
+[Thread 3]  Guest 154 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 3]  Guest 154 has checked into a room
+[Thread 0]  Guest 153 has left the hotel
+[Thread 0]  Guest 154 has left the hotel
+[Thread 0]  Guest 155 has left the hotel
+[Thread 1]  Guest 156 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 1]  Guest 156 has checked into a room
+[Thread 5]  Guest 157 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 5]  Guest 157 has checked into a room
+[Thread 4]  Guest 159 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 4]  Guest 159 has checked into a room
+[Thread 3]  Guest 160 has come to the hotel to live for 1 seconds. There are 3 guests in the hotel
+[Thread 3]  Guest 160 has checked into a room
+[Thread 0]  Guest 157 has left the hotel
+[Thread 2]  Guest 158 has come to the hotel to live for 1 seconds. There are 3 guests in the hotel
+[Thread 2]  Guest 158 has checked into a room
+[Thread 0]  Guest 158 has left the hotel
+[Thread 0]  Guest 160 has left the hotel
+[Thread 0]  Guest 159 has left the hotel
+[Thread 0]  Guest 156 has left the hotel
+[Thread 1]  Guest 161 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 1]  Guest 161 has checked into a room
+[Thread 4]  Guest 162 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 4]  Guest 162 has checked into a room
+[Thread 0]  Guest 162 has left the hotel
+[Thread 5]  Guest 163 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 5]  Guest 163 has checked into a room
+[Thread 0]  Guest 163 has left the hotel
+[Thread 3]  Guest 164 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 3]  Guest 164 has checked into a room
+[Thread 2]  Guest 165 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 2]  Guest 165 has checked into a room
+[Thread 0]  Guest 164 has left the hotel
+[Thread 0]  Guest 161 has left the hotel
+[Thread 0]  Guest 165 has left the hotel
+[Thread 1]  Guest 166 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 1]  Guest 166 has checked into a room
+[Thread 0]  Guest 166 has left the hotel
+[Thread 4]  Guest 167 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 4]  Guest 167 has checked into a room
+[Thread 5]  Guest 168 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 5]  Guest 168 has checked into a room
+[Thread 0]  Guest 168 has left the hotel
+[Thread 3]  Guest 169 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 3]  Guest 169 has checked into a room
+[Thread 2]  Guest 170 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 2]  Guest 170 has checked into a room
+[Thread 0]  Guest 169 has left the hotel
+[Thread 0]  Guest 170 has left the hotel
+[Thread 0]  Guest 167 has left the hotel
+[Thread 1]  Guest 171 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 1]  Guest 171 has checked into a room
+[Thread 0]  Guest 171 has left the hotel
+[Thread 4]  Guest 172 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 4]  Guest 172 has checked into a room
+[Thread 5]  Guest 173 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 5]  Guest 173 has checked into a room
+[Thread 0]  Guest 173 has left the hotel
+[Thread 3]  Guest 174 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 3]  Guest 174 has checked into a room
+[Thread 0]  Guest 174 has left the hotel
+[Thread 2]  Guest 175 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 2]  Guest 175 has checked into a room
+[Thread 0]  Guest 175 has left the hotel
+[Thread 0]  Guest 172 has left the hotel
+[Thread 1]  Guest 176 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 1]  Guest 176 has checked into a room
+[Thread 4]  Guest 177 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 4]  Guest 177 has checked into a room
+[Thread 0]  Guest 177 has left the hotel
+[Thread 5]  Guest 178 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 5]  Guest 178 has checked into a room
+[Thread 2]  Guest 179 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 2]  Guest 179 has checked into a room
+[Thread 0]  Guest 178 has left the hotel
+[Thread 3]  Guest 180 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 3]  Guest 180 has checked into a room
+[Thread 0]  Guest 180 has left the hotel
+[Thread 0]  Guest 179 has left the hotel
+[Thread 0]  Guest 176 has left the hotel
+[Thread 1]  Guest 181 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 1]  Guest 181 has checked into a room
+[Thread 0]  Guest 181 has left the hotel
+[Thread 4]  Guest 182 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 4]  Guest 182 has checked into a room
+[Thread 5]  Guest 183 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 5]  Guest 183 has checked into a room
+[Thread 0]  Guest 183 has left the hotel
+[Thread 2]  Guest 184 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 2]  Guest 184 has checked into a room
+[Thread 0]  Guest 184 has left the hotel
+[Thread 3]  Guest 185 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 3]  Guest 185 has checked into a room
+[Thread 0]  Guest 185 has left the hotel
+[Thread 0]  Guest 182 has left the hotel
+[Thread 1]  Guest 186 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 1]  Guest 186 has checked into a room
+[Thread 0]  Guest 186 has left the hotel
+[Thread 4]  Guest 187 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 4]  Guest 187 has checked into a room
+[Thread 5]  Guest 188 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 5]  Guest 188 has checked into a room
+[Thread 0]  Guest 188 has left the hotel
+[Thread 2]  Guest 189 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 2]  Guest 189 has checked into a room
+[Thread 3]  Guest 190 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 3]  Guest 190 has checked into a room
+[Thread 0]  Guest 189 has left the hotel
+[Thread 0]  Guest 190 has left the hotel
+[Thread 0]  Guest 187 has left the hotel
+[Thread 1]  Guest 191 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 1]  Guest 191 has checked into a room
+[Thread 0]  Guest 191 has left the hotel
+[Thread 4]  Guest 192 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 4]  Guest 192 has checked into a room
+[Thread 5]  Guest 193 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 5]  Guest 193 has checked into a room
+[Thread 0]  Guest 193 has left the hotel
+[Thread 2]  Guest 194 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 2]  Guest 194 has checked into a room
+[Thread 3]  Guest 195 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 3]  Guest 195 has checked into a room
+[Thread 0]  Guest 194 has left the hotel
+[Thread 0]  Guest 192 has left the hotel
+[Thread 0]  Guest 195 has left the hotel
+[Thread 1]  Guest 196 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 1]  Guest 196 has checked into a room
+[Thread 0]  Guest 196 has left the hotel
+[Thread 4]  Guest 197 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 4]  Guest 197 has checked into a room
+[Thread 5]  Guest 198 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 5]  Guest 198 has checked into a room
+[Thread 0]  Guest 198 has left the hotel
+[Thread 2]  Guest 199 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 2]  Guest 199 has checked into a room
+[Thread 3]  Guest 200 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 3]  Guest 200 has checked into a room
+[Thread 0]  Guest 199 has left the hotel
+[Thread 0]  Guest 200 has left the hotel
+[Thread 0]  Guest 197 has left the hotel
+[Thread 1]  Guest 201 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 1]  Guest 201 has checked into a room
+[Thread 0]  Guest 201 has left the hotel
+[Thread 4]  Guest 202 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 4]  Guest 202 has checked into a room
+[Thread 5]  Guest 203 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 5]  Guest 203 has checked into a room
+[Thread 0]  Guest 203 has left the hotel
+[Thread 2]  Guest 204 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 2]  Guest 204 has checked into a room
+[Thread 0]  Guest 204 has left the hotel
+[Thread 3]  Guest 205 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 3]  Guest 205 has checked into a room
+[Thread 0]  Guest 205 has left the hotel
+[Thread 0]  Guest 202 has left the hotel
+[Thread 1]  Guest 206 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 1]  Guest 206 has checked into a room
+[Thread 0]  Guest 206 has left the hotel
+[Thread 4]  Guest 207 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 4]  Guest 207 has checked into a room
+[Thread 5]  Guest 208 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 5]  Guest 208 has checked into a room
+[Thread 2]  Guest 209 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 2]  Guest 209 has checked into a room
+[Thread 3]  Guest 210 has come to the hotel to live for 1 seconds. There are 3 guests in the hotel
+[Thread 3]  Guest 210 has checked into a room
+[Thread 0]  Guest 208 has left the hotel
+[Thread 0]  Guest 207 has left the hotel
+[Thread 0]  Guest 210 has left the hotel
+[Thread 0]  Guest 209 has left the hotel
+[Thread 1]  Guest 211 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 1]  Guest 211 has checked into a room
+[Thread 0]  Guest 211 has left the hotel
+[Thread 4]  Guest 212 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 4]  Guest 212 has checked into a room
+[Thread 5]  Guest 213 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 2]  Guest 214 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 2]  Guest 214 has checked into a room
+[Thread 5]  Guest 213 has checked into a room
+[Thread 3]  Guest 215 has come to the hotel to live for 1 seconds. There are 3 guests in the hotel
+[Thread 3]  Guest 215 has checked into a room
+[Thread 0]  Guest 214 has left the hotel
+[Thread 0]  Guest 212 has left the hotel
+[Thread 0]  Guest 215 has left the hotel
+[Thread 0]  Guest 213 has left the hotel
+[Thread 1]  Guest 216 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 1]  Guest 216 has checked into a room
+[Thread 4]  Guest 217 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 4]  Guest 217 has checked into a room
+[Thread 0]  Guest 217 has left the hotel
+[Thread 2]  Guest 218 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 3]  Guest 220 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 2]  Guest 218 has checked into a room
+[Thread 5]  Guest 219 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 5]  Guest 219 has checked into a room
+[Thread 3]  Guest 220 has checked into a room
+[Thread 0]  Guest 218 has left the hotel
+[Thread 0]  Guest 220 has left the hotel
+[Thread 0]  Guest 219 has left the hotel
+[Thread 0]  Guest 216 has left the hotel
+[Thread 1]  Guest 221 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 1]  Guest 221 has checked into a room
+[Thread 0]  Guest 221 has left the hotel
+[Thread 4]  Guest 222 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 4]  Guest 222 has checked into a room
+[Thread 3]  Guest 223 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 3]  Guest 223 has checked into a room
+[Thread 2]  Guest 224 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 2]  Guest 224 has checked into a room
+[Thread 5]  Guest 225 has come to the hotel to live for 1 seconds. There are 3 guests in the hotel
+[Thread 5]  Guest 225 has checked into a room
+[Thread 0]  Guest 223 has left the hotel
+[Thread 0]  Guest 225 has left the hotel
+[Thread 0]  Guest 224 has left the hotel
+[Thread 0]  Guest 222 has left the hotel
+[Thread 1]  Guest 226 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 1]  Guest 226 has checked into a room
+[Thread 4]  Guest 227 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 4]  Guest 227 has checked into a room
+[Thread 0]  Guest 227 has left the hotel
+[Thread 3]  Guest 228 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 3]  Guest 228 has checked into a room
+[Thread 0]  Guest 228 has left the hotel
+[Thread 2]  Guest 229 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 2]  Guest 229 has checked into a room
+[Thread 5]  Guest 230 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 5]  Guest 230 has checked into a room
+[Thread 0]  Guest 229 has left the hotel
+[Thread 0]  Guest 226 has left the hotel
+[Thread 0]  Guest 230 has left the hotel
+[Thread 1]  Guest 231 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 1]  Guest 231 has checked into a room
+[Thread 0]  Guest 231 has left the hotel
+[Thread 4]  Guest 232 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 4]  Guest 232 has checked into a room
+[Thread 0]  Guest 232 has left the hotel
+[Thread 3]  Guest 233 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 3]  Guest 233 has checked into a room
+[Thread 0]  Guest 233 has left the hotel
+[Thread 5]  Guest 234 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 5]  Guest 234 has checked into a room
+[Thread 2]  Guest 235 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 2]  Guest 235 has checked into a room
+[Thread 0]  Guest 234 has left the hotel
+[Thread 0]  Guest 235 has left the hotel
+[Thread 1]  Guest 236 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 1]  Guest 236 has checked into a room
+[Thread 0]  Guest 236 has left the hotel
+[Thread 4]  Guest 237 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 4]  Guest 237 has checked into a room
+[Thread 0]  Guest 237 has left the hotel
+[Thread 3]  Guest 238 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 3]  Guest 238 has checked into a room
+[Thread 5]  Guest 239 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 5]  Guest 239 has checked into a room
+[Thread 2]  Guest 240 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 2]  Guest 240 has checked into a room
+[Thread 0]  Guest 239 has left the hotel
+[Thread 0]  Guest 240 has left the hotel
+[Thread 0]  Guest 238 has left the hotel
+[Thread 1]  Guest 241 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 1]  Guest 241 has checked into a room
+[Thread 0]  Guest 241 has left the hotel
+[Thread 4]  Guest 242 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 4]  Guest 242 has checked into a room
+[Thread 3]  Guest 243 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 3]  Guest 243 has checked into a room
+[Thread 0]  Guest 243 has left the hotel
+[Thread 5]  Guest 244 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 5]  Guest 244 has checked into a room
+[Thread 0]  Guest 244 has left the hotel
+[Thread 2]  Guest 245 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 2]  Guest 245 has checked into a room
+[Thread 0]  Guest 245 has left the hotel
+[Thread 0]  Guest 242 has left the hotel
+[Thread 1]  Guest 246 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 1]  Guest 246 has checked into a room
+[Thread 0]  Guest 246 has left the hotel
+[Thread 4]  Guest 247 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 4]  Guest 247 has checked into a room
+[Thread 0]  Guest 247 has left the hotel
+[Thread 3]  Guest 248 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 3]  Guest 248 has checked into a room
+[Thread 5]  Guest 249 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 5]  Guest 249 has checked into a room
+[Thread 0]  Guest 248 has left the hotel
+[Thread 2]  Guest 250 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 2]  Guest 250 has checked into a room
+[Thread 0]  Guest 250 has left the hotel
+[Thread 0]  Guest 249 has left the hotel
+[Thread 1]  Guest 251 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 1]  Guest 251 has checked into a room
+[Thread 0]  Guest 251 has left the hotel
+[Thread 4]  Guest 252 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 4]  Guest 252 has checked into a room
+[Thread 0]  Guest 252 has left the hotel
+[Thread 3]  Guest 253 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 5]  Guest 254 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 5]  Guest 254 has checked into a room
+[Thread 3]  Guest 253 has checked into a room
+[Thread 0]  Guest 254 has left the hotel
+[Thread 2]  Guest 255 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 2]  Guest 255 has checked into a room
+[Thread 0]  Guest 255 has left the hotel
+[Thread 0]  Guest 253 has left the hotel
+[Thread 1]  Guest 256 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 1]  Guest 256 has checked into a room
+[Thread 0]  Guest 256 has left the hotel
+[Thread 4]  Guest 257 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 4]  Guest 257 has checked into a room
+[Thread 0]  Guest 257 has left the hotel
+[Thread 3]  Guest 258 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 3]  Guest 258 has checked into a room
+[Thread 5]  Guest 259 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 5]  Guest 259 has checked into a room
+[Thread 0]  Guest 258 has left the hotel
+[Thread 2]  Guest 260 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 2]  Guest 260 has checked into a room
+[Thread 0]  Guest 260 has left the hotel
+[Thread 0]  Guest 259 has left the hotel
+[Thread 1]  Guest 261 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 1]  Guest 261 has checked into a room
+[Thread 0]  Guest 261 has left the hotel
+[Thread 4]  Guest 262 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 4]  Guest 262 has checked into a room
+[Thread 3]  Guest 263 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 3]  Guest 263 has checked into a room
+[Thread 5]  Guest 264 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 5]  Guest 264 has checked into a room
+[Thread 0]  Guest 263 has left the hotel
+[Thread 2]  Guest 265 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 2]  Guest 265 has checked into a room
+[Thread 0]  Guest 265 has left the hotel
+[Thread 0]  Guest 264 has left the hotel
+[Thread 0]  Guest 262 has left the hotel
+[Thread 1]  Guest 266 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 1]  Guest 266 has checked into a room
+[Thread 0]  Guest 266 has left the hotel
+[Thread 4]  Guest 267 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 4]  Guest 267 has checked into a room
+[Thread 0]  Guest 267 has left the hotel
+[Thread 3]  Guest 268 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 3]  Guest 268 has checked into a room
+[Thread 0]  Guest 268 has left the hotel
+[Thread 5]  Guest 269 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 5]  Guest 269 has checked into a room
+[Thread 0]  Guest 269 has left the hotel
+[Thread 2]  Guest 270 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 2]  Guest 270 has checked into a room
+[Thread 0]  Guest 270 has left the hotel
+[Thread 1]  Guest 271 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 1]  Guest 271 has checked into a room
+[Thread 0]  Guest 271 has left the hotel
+[Thread 4]  Guest 272 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 4]  Guest 272 has checked into a room
+[Thread 0]  Guest 272 has left the hotel
+[Thread 3]  Guest 273 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 3]  Guest 273 has checked into a room
+[Thread 0]  Guest 273 has left the hotel
+[Thread 5]  Guest 274 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 5]  Guest 274 has checked into a room
+[Thread 0]  Guest 274 has left the hotel
+[Thread 2]  Guest 275 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 2]  Guest 275 has checked into a room
+[Thread 0]  Guest 275 has left the hotel
+[Thread 4]  Guest 276 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 4]  Guest 276 has checked into a room
+[Thread 3]  Guest 277 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 3]  Guest 277 has checked into a room
+[Thread 5]  Guest 278 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 0]  Guest 277 has left the hotel
+[Thread 1]  Guest 279 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 1]  Guest 279 has checked into a room
+[Thread 0]  Guest 279 has left the hotel
+[Thread 5]  Guest 278 has checked into a room
+[Thread 0]  Guest 278 has left the hotel
+[Thread 2]  Guest 280 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 2]  Guest 280 has checked into a room
+[Thread 0]  Guest 280 has left the hotel
+[Thread 0]  Guest 276 has left the hotel
+[Thread 4]  Guest 281 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 4]  Guest 281 has checked into a room
+[Thread 3]  Guest 282 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 3]  Guest 282 has checked into a room
+[Thread 0]  Guest 282 has left the hotel
+[Thread 5]  Guest 283 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 2]  Guest 285 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 2]  Guest 285 has checked into a room
+[Thread 1]  Guest 284 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 1]  Guest 284 has checked into a room
+[Thread 5]  Guest 283 has checked into a room
+[Thread 0]  Guest 285 has left the hotel
+[Thread 0]  Guest 283 has left the hotel
+[Thread 0]  Guest 284 has left the hotel
+[Thread 0]  Guest 281 has left the hotel
+[Thread 4]  Guest 286 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 4]  Guest 286 has checked into a room
+[Thread 0]  Guest 286 has left the hotel
+[Thread 3]  Guest 287 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 3]  Guest 287 has checked into a room
+[Thread 2]  Guest 288 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 2]  Guest 288 has checked into a room
+[Thread 0]  Guest 287 has left the hotel
+[Thread 5]  Guest 289 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 5]  Guest 289 has checked into a room
+[Thread 0]  Guest 289 has left the hotel
+[Thread 1]  Guest 290 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 1]  Guest 290 has checked into a room
+[Thread 0]  Guest 290 has left the hotel
+[Thread 0]  Guest 288 has left the hotel
+[Thread 4]  Guest 291 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 4]  Guest 291 has checked into a room
+[Thread 0]  Guest 291 has left the hotel
+[Thread 3]  Guest 292 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 3]  Guest 292 has checked into a room
+[Thread 0]  Guest 292 has left the hotel
+[Thread 2]  Guest 293 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 2]  Guest 293 has checked into a room
+[Thread 0]  Guest 293 has left the hotel
+[Thread 5]  Guest 294 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 5]  Guest 294 has checked into a room
+[Thread 0]  Guest 294 has left the hotel
+[Thread 1]  Guest 295 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 1]  Guest 295 has checked into a room
+[Thread 0]  Guest 295 has left the hotel
+[Thread 4]  Guest 296 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 4]  Guest 296 has checked into a room
+[Thread 0]  Guest 296 has left the hotel
+[Thread 3]  Guest 297 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 3]  Guest 297 has checked into a room
+[Thread 2]  Guest 298 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 2]  Guest 298 has checked into a room
+[Thread 0]  Guest 297 has left the hotel
+[Thread 5]  Guest 299 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 5]  Guest 299 has checked into a room
+[Thread 0]  Guest 299 has left the hotel
+[Thread 1]  Guest 300 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 1]  Guest 300 has checked into a room
+[Thread 0]  Guest 300 has left the hotel
+[Thread 0]  Guest 298 has left the hotel
+[Thread 4]  Guest 301 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 4]  Guest 301 has checked into a room
+[Thread 0]  Guest 301 has left the hotel
+[Thread 3]  Guest 302 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 5]  Guest 304 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 5]  Guest 304 has checked into a room
+[Thread 3]  Guest 302 has checked into a room
+[Thread 0]  Guest 302 has left the hotel
+[Thread 2]  Guest 303 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 2]  Guest 303 has checked into a room
+[Thread 0]  Guest 303 has left the hotel
+[Thread 1]  Guest 305 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 1]  Guest 305 has checked into a room
+[Thread 0]  Guest 305 has left the hotel
+[Thread 0]  Guest 304 has left the hotel
+[Thread 4]  Guest 306 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 4]  Guest 306 has checked into a room
+[Thread 5]  Guest 307 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 5]  Guest 307 has checked into a room
+[Thread 0]  Guest 307 has left the hotel
+[Thread 3]  Guest 308 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 3]  Guest 308 has checked into a room
+[Thread 2]  Guest 309 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 2]  Guest 309 has checked into a room
+[Thread 0]  Guest 308 has left the hotel
+[Thread 1]  Guest 310 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 1]  Guest 310 has checked into a room
+[Thread 0]  Guest 310 has left the hotel
+[Thread 0]  Guest 309 has left the hotel
+[Thread 0]  Guest 306 has left the hotel
+[Thread 4]  Guest 311 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 4]  Guest 311 has checked into a room
+[Thread 0]  Guest 311 has left the hotel
+[Thread 5]  Guest 312 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 5]  Guest 312 has checked into a room
+[Thread 2]  Guest 313 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 2]  Guest 313 has checked into a room
+[Thread 3]  Guest 314 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 3]  Guest 314 has checked into a room
+[Thread 0]  Guest 313 has left the hotel
+[Thread 1]  Guest 315 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 1]  Guest 315 has checked into a room
+[Thread 0]  Guest 315 has left the hotel
+[Thread 0]  Guest 312 has left the hotel
+[Thread 0]  Guest 314 has left the hotel
+[Thread 4]  Guest 316 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 4]  Guest 316 has checked into a room
+[Thread 0]  Guest 316 has left the hotel
+[Thread 5]  Guest 317 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 5]  Guest 317 has checked into a room
+[Thread 2]  Guest 318 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 2]  Guest 318 has checked into a room
+[Thread 0]  Guest 317 has left the hotel
+[Thread 3]  Guest 319 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 3]  Guest 319 has checked into a room
+[Thread 0]  Guest 319 has left the hotel
+[Thread 1]  Guest 320 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 1]  Guest 320 has checked into a room
+[Thread 0]  Guest 320 has left the hotel
+[Thread 0]  Guest 318 has left the hotel
+[Thread 4]  Guest 321 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 4]  Guest 321 has checked into a room
+[Thread 5]  Guest 322 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 5]  Guest 322 has checked into a room
+[Thread 2]  Guest 324 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 2]  Guest 324 has checked into a room
+[Thread 0]  Guest 322 has left the hotel
+[Thread 1]  Guest 325 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 1]  Guest 325 has checked into a room
+[Thread 0]  Guest 325 has left the hotel
+[Thread 3]  Guest 323 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 3]  Guest 323 has checked into a room
+[Thread 0]  Guest 323 has left the hotel
+[Thread 0]  Guest 321 has left the hotel
+[Thread 0]  Guest 324 has left the hotel
+[Thread 4]  Guest 326 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 4]  Guest 326 has checked into a room
+[Thread 5]  Guest 327 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 5]  Guest 327 has checked into a room
+[Thread 2]  Guest 328 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 2]  Guest 328 has checked into a room
+[Thread 0]  Guest 327 has left the hotel
+[Thread 1]  Guest 329 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 1]  Guest 329 has checked into a room
+[Thread 0]  Guest 329 has left the hotel
+[Thread 3]  Guest 330 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 3]  Guest 330 has checked into a room
+[Thread 0]  Guest 330 has left the hotel
+[Thread 0]  Guest 326 has left the hotel
+[Thread 0]  Guest 328 has left the hotel
+[Thread 4]  Guest 331 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 4]  Guest 331 has checked into a room
+[Thread 2]  Guest 332 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 2]  Guest 332 has checked into a room
+[Thread 5]  Guest 333 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 5]  Guest 333 has checked into a room
+[Thread 0]  Guest 332 has left the hotel
+[Thread 3]  Guest 334 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 3]  Guest 334 has checked into a room
+[Thread 1]  Guest 335 has come to the hotel to live for 1 seconds. There are 3 guests in the hotel
+[Thread 1]  Guest 335 has checked into a room
+[Thread 0]  Guest 334 has left the hotel
+[Thread 0]  Guest 335 has left the hotel
+[Thread 0]  Guest 333 has left the hotel
+[Thread 0]  Guest 331 has left the hotel
+[Thread 4]  Guest 336 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 4]  Guest 336 has checked into a room
+[Thread 0]  Guest 336 has left the hotel
+[Thread 2]  Guest 337 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 2]  Guest 337 has checked into a room
+[Thread 0]  Guest 337 has left the hotel
+[Thread 5]  Guest 338 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 5]  Guest 338 has checked into a room
+[Thread 3]  Guest 339 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 3]  Guest 339 has checked into a room
+[Thread 0]  Guest 339 has left the hotel
+[Thread 1]  Guest 340 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 1]  Guest 340 has checked into a room
+[Thread 0]  Guest 340 has left the hotel
+[Thread 0]  Guest 338 has left the hotel
+[Thread 4]  Guest 341 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 4]  Guest 341 has checked into a room
+[Thread 0]  Guest 341 has left the hotel
+[Thread 5]  Guest 342 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 5]  Guest 342 has checked into a room
+[Thread 3]  Guest 343 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 3]  Guest 343 has checked into a room
+[Thread 0]  Guest 343 has left the hotel
+[Thread 1]  Guest 344 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 1]  Guest 344 has checked into a room
+[Thread 2]  Guest 345 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 2]  Guest 345 has checked into a room
+[Thread 0]  Guest 344 has left the hotel
+[Thread 0]  Guest 342 has left the hotel
+[Thread 0]  Guest 345 has left the hotel
+[Thread 4]  Guest 346 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 4]  Guest 346 has checked into a room
+[Thread 0]  Guest 346 has left the hotel
+[Thread 5]  Guest 347 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 5]  Guest 347 has checked into a room
+[Thread 3]  Guest 348 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 3]  Guest 348 has checked into a room
+[Thread 0]  Guest 348 has left the hotel
+[Thread 1]  Guest 349 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 1]  Guest 349 has checked into a room
+[Thread 0]  Guest 349 has left the hotel
+[Thread 2]  Guest 350 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 2]  Guest 350 has checked into a room
+[Thread 0]  Guest 350 has left the hotel
+[Thread 0]  Guest 347 has left the hotel
+[Thread 4]  Guest 351 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 4]  Guest 351 has checked into a room
+[Thread 5]  Guest 352 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 5]  Guest 352 has checked into a room
+[Thread 0]  Guest 352 has left the hotel
+[Thread 3]  Guest 353 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 3]  Guest 353 has checked into a room
+[Thread 0]  Guest 353 has left the hotel
+[Thread 1]  Guest 354 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 1]  Guest 354 has checked into a room
+[Thread 2]  Guest 355 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 2]  Guest 355 has checked into a room
+[Thread 0]  Guest 351 has left the hotel
+[Thread 0]  Guest 355 has left the hotel
+[Thread 0]  Guest 354 has left the hotel
+[Thread 4]  Guest 356 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 4]  Guest 356 has checked into a room
+[Thread 0]  Guest 356 has left the hotel
+[Thread 5]  Guest 357 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 5]  Guest 357 has checked into a room
+[Thread 3]  Guest 358 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 3]  Guest 358 has checked into a room
+[Thread 0]  Guest 358 has left the hotel
+[Thread 1]  Guest 359 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 1]  Guest 359 has checked into a room
+[Thread 0]  Guest 359 has left the hotel
+[Thread 2]  Guest 360 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 2]  Guest 360 has checked into a room
+[Thread 0]  Guest 360 has left the hotel
+[Thread 0]  Guest 357 has left the hotel
+[Thread 4]  Guest 361 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 4]  Guest 361 has checked into a room
+[Thread 0]  Guest 361 has left the hotel
+[Thread 5]  Guest 362 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 5]  Guest 362 has checked into a room
+[Thread 3]  Guest 363 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 3]  Guest 363 has checked into a room
+[Thread 0]  Guest 363 has left the hotel
+[Thread 1]  Guest 364 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 1]  Guest 364 has checked into a room
+[Thread 0]  Guest 364 has left the hotel
+[Thread 2]  Guest 365 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 2]  Guest 365 has checked into a room
+[Thread 0]  Guest 365 has left the hotel
+[Thread 0]  Guest 362 has left the hotel
+[Thread 4]  Guest 366 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 4]  Guest 366 has checked into a room
+[Thread 5]  Guest 367 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 5]  Guest 367 has checked into a room
+[Thread 0]  Guest 367 has left the hotel
+[Thread 3]  Guest 368 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 3]  Guest 368 has checked into a room
+[Thread 0]  Guest 368 has left the hotel
+[Thread 1]  Guest 369 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 1]  Guest 369 has checked into a room
+[Thread 0]  Guest 369 has left the hotel
+[Thread 2]  Guest 370 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 2]  Guest 370 has checked into a room
+[Thread 0]  Guest 370 has left the hotel
+[Thread 0]  Guest 366 has left the hotel
+[Thread 4]  Guest 371 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 4]  Guest 371 has checked into a room
+[Thread 3]  Guest 372 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 3]  Guest 372 has checked into a room
+[Thread 0]  Guest 372 has left the hotel
+[Thread 5]  Guest 373 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 5]  Guest 373 has checked into a room
+[Thread 0]  Guest 373 has left the hotel
+[Thread 1]  Guest 374 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 1]  Guest 374 has checked into a room
+[Thread 0]  Guest 374 has left the hotel
+[Thread 2]  Guest 375 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 2]  Guest 375 has checked into a room
+[Thread 0]  Guest 375 has left the hotel
+[Thread 0]  Guest 371 has left the hotel
+[Thread 4]  Guest 376 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 4]  Guest 376 has checked into a room
+[Thread 3]  Guest 377 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 3]  Guest 377 has checked into a room
+[Thread 5]  Guest 378 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 5]  Guest 378 has checked into a room
+[Thread 0]  Guest 378 has left the hotel
+[Thread 1]  Guest 379 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 1]  Guest 379 has checked into a room
+[Thread 0]  Guest 379 has left the hotel
+[Thread 2]  Guest 380 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 2]  Guest 380 has checked into a room
+[Thread 0]  Guest 380 has left the hotel
+[Thread 0]  Guest 377 has left the hotel
+[Thread 0]  Guest 376 has left the hotel
+[Thread 4]  Guest 381 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 4]  Guest 381 has checked into a room
+[Thread 0]  Guest 381 has left the hotel
+[Thread 3]  Guest 382 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 3]  Guest 382 has checked into a room
+[Thread 5]  Guest 383 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 5]  Guest 383 has checked into a room
+[Thread 0]  Guest 383 has left the hotel
+[Thread 1]  Guest 384 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 1]  Guest 384 has checked into a room
+[Thread 0]  Guest 384 has left the hotel
+[Thread 2]  Guest 385 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 2]  Guest 385 has checked into a room
+[Thread 0]  Guest 385 has left the hotel
+[Thread 0]  Guest 382 has left the hotel
+[Thread 4]  Guest 386 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 4]  Guest 386 has checked into a room
+[Thread 0]  Guest 386 has left the hotel
+[Thread 3]  Guest 387 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 3]  Guest 387 has checked into a room
+[Thread 5]  Guest 388 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 5]  Guest 388 has checked into a room
+[Thread 0]  Guest 387 has left the hotel
+[Thread 1]  Guest 389 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 1]  Guest 389 has checked into a room
+[Thread 0]  Guest 389 has left the hotel
+[Thread 2]  Guest 390 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 2]  Guest 390 has checked into a room
+[Thread 0]  Guest 390 has left the hotel
+[Thread 0]  Guest 388 has left the hotel
+[Thread 4]  Guest 391 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 4]  Guest 391 has checked into a room
+[Thread 0]  Guest 391 has left the hotel
+[Thread 3]  Guest 392 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 3]  Guest 392 has checked into a room
+[Thread 5]  Guest 393 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 5]  Guest 393 has checked into a room
+[Thread 0]  Guest 393 has left the hotel
+[Thread 1]  Guest 394 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 1]  Guest 394 has checked into a room
+[Thread 0]  Guest 394 has left the hotel
+[Thread 2]  Guest 395 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 2]  Guest 395 has checked into a room
+[Thread 0]  Guest 395 has left the hotel
+[Thread 0]  Guest 392 has left the hotel
+[Thread 4]  Guest 396 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 4]  Guest 396 has checked into a room
+[Thread 0]  Guest 396 has left the hotel
+[Thread 3]  Guest 397 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 3]  Guest 397 has checked into a room
+[Thread 5]  Guest 398 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 5]  Guest 398 has checked into a room
+[Thread 0]  Guest 398 has left the hotel
+[Thread 1]  Guest 399 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 1]  Guest 399 has checked into a room
+[Thread 0]  Guest 399 has left the hotel
+[Thread 2]  Guest 400 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 2]  Guest 400 has checked into a room
+[Thread 0]  Guest 400 has left the hotel
+[Thread 0]  Guest 397 has left the hotel
+[Thread 4]  Guest 401 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 4]  Guest 401 has checked into a room
+[Thread 3]  Guest 402 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 3]  Guest 402 has checked into a room
+[Thread 0]  Guest 401 has left the hotel
+[Thread 5]  Guest 403 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 5]  Guest 403 has checked into a room
+[Thread 0]  Guest 403 has left the hotel
+[Thread 2]  Guest 404 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 1]  Guest 405 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 1]  Guest 405 has checked into a room
+[Thread 2]  Guest 404 has checked into a room
+[Thread 0]  Guest 405 has left the hotel
+[Thread 0]  Guest 402 has left the hotel
+[Thread 0]  Guest 404 has left the hotel
+[Thread 3]  Guest 406 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 3]  Guest 406 has checked into a room
+[Thread 0]  Guest 406 has left the hotel
+[Thread 4]  Guest 407 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 4]  Guest 407 has checked into a room
+[Thread 5]  Guest 408 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 5]  Guest 408 has checked into a room
+[Thread 0]  Guest 407 has left the hotel
+[Thread 1]  Guest 409 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 1]  Guest 409 has checked into a room
+[Thread 2]  Guest 410 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 2]  Guest 410 has checked into a room
+[Thread 0]  Guest 409 has left the hotel
+[Thread 0]  Guest 410 has left the hotel
+[Thread 0]  Guest 408 has left the hotel
+[Thread 5]  Guest 411 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 5]  Guest 411 has checked into a room
+[Thread 0]  Guest 411 has left the hotel
+[Thread 4]  Guest 412 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 3]  Guest 413 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 3]  Guest 413 has checked into a room
+[Thread 4]  Guest 412 has checked into a room
+[Thread 0]  Guest 413 has left the hotel
+[Thread 1]  Guest 414 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 1]  Guest 414 has checked into a room
+[Thread 2]  Guest 415 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 2]  Guest 415 has checked into a room
+[Thread 0]  Guest 414 has left the hotel
+[Thread 0]  Guest 415 has left the hotel
+[Thread 0]  Guest 412 has left the hotel
+[Thread 5]  Guest 416 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 5]  Guest 416 has checked into a room
+[Thread 4]  Guest 417 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 3]  Guest 418 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 3]  Guest 418 has checked into a room
+[Thread 4]  Guest 417 has checked into a room
+[Thread 0]  Guest 418 has left the hotel
+[Thread 1]  Guest 419 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 1]  Guest 419 has checked into a room
+[Thread 2]  Guest 420 has come to the hotel to live for 1 seconds. There are 3 guests in the hotel
+[Thread 2]  Guest 420 has checked into a room
+[Thread 0]  Guest 419 has left the hotel
+[Thread 0]  Guest 416 has left the hotel
+[Thread 0]  Guest 420 has left the hotel
+[Thread 0]  Guest 417 has left the hotel
+[Thread 5]  Guest 421 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 5]  Guest 421 has checked into a room
+[Thread 3]  Guest 422 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 3]  Guest 422 has checked into a room
+[Thread 4]  Guest 423 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 4]  Guest 423 has checked into a room
+[Thread 0]  Guest 422 has left the hotel
+[Thread 2]  Guest 424 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 2]  Guest 424 has checked into a room
+[Thread 1]  Guest 425 has come to the hotel to live for 1 seconds. There are 3 guests in the hotel
+[Thread 0]  Guest 424 has left the hotel
+[Thread 1]  Guest 425 has checked into a room
+[Thread 0]  Guest 425 has left the hotel
+[Thread 0]  Guest 423 has left the hotel
+[Thread 0]  Guest 421 has left the hotel
+[Thread 5]  Guest 426 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 5]  Guest 426 has checked into a room
+[Thread 3]  Guest 428 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 3]  Guest 428 has checked into a room
+[Thread 4]  Guest 427 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 4]  Guest 427 has checked into a room
+[Thread 0]  Guest 428 has left the hotel
+[Thread 2]  Guest 429 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 2]  Guest 429 has checked into a room
+[Thread 0]  Guest 429 has left the hotel
+[Thread 1]  Guest 430 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 1]  Guest 430 has checked into a room
+[Thread 0]  Guest 430 has left the hotel
+[Thread 0]  Guest 427 has left the hotel
+[Thread 0]  Guest 426 has left the hotel
+[Thread 5]  Guest 431 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 5]  Guest 431 has checked into a room
+[Thread 0]  Guest 431 has left the hotel
+[Thread 4]  Guest 432 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 4]  Guest 432 has checked into a room
+[Thread 3]  Guest 433 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 3]  Guest 433 has checked into a room
+[Thread 0]  Guest 433 has left the hotel
+[Thread 2]  Guest 434 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 2]  Guest 434 has checked into a room
+[Thread 0]  Guest 434 has left the hotel
+[Thread 1]  Guest 435 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 1]  Guest 435 has checked into a room
+[Thread 0]  Guest 435 has left the hotel
+[Thread 0]  Guest 432 has left the hotel
+[Thread 4]  Guest 436 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 4]  Guest 436 has checked into a room
+[Thread 0]  Guest 436 has left the hotel
+[Thread 5]  Guest 437 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 5]  Guest 437 has checked into a room
+[Thread 0]  Guest 437 has left the hotel
+[Thread 3]  Guest 438 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 3]  Guest 438 has checked into a room
+[Thread 2]  Guest 439 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 2]  Guest 439 has checked into a room
+[Thread 1]  Guest 440 has come to the hotel to live for 1 seconds. There are 2 guests in the hotel
+[Thread 1]  Guest 440 has checked into a room
+[Thread 0]  Guest 439 has left the hotel
+[Thread 0]  Guest 440 has left the hotel
+[Thread 0]  Guest 438 has left the hotel
+[Thread 3]  Guest 441 has come to the hotel to live for 1 seconds. There are 0 guests in the hotel
+[Thread 3]  Guest 441 has checked into a room
+[Thread 5]  Guest 442 has come to the hotel to live for 1 seconds. There are 1 guests in the hotel
+[Thread 5]  Guest 442 has checked into a room
+[Thread 0]  Guest 442 has left the hotel
+[Thread 4]  Guest 443 has come to the hotel to live for 1 seconds. There 
