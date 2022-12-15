@@ -61,6 +61,15 @@ int main(int argc, char* argv[]) {
                      "\nthreads_number: " << threads_number <<
                      "\nwait_range: " << wait_range <<
                      "\nduration_range: " << duration_range << std::endl;
+    } else if (argv[1] == std::string("-c")) {
+        if (argc < 6) {
+            std::cerr << "All arguments are not provided" << std::endl;
+            return 1;
+        }
+        hotel_size = std::stoi(argv[2]);
+        threads_number = std::stoi(argv[3]);
+        wait_range = std::stoi(argv[4]);
+        duration_range = std::stoi(argv[5]);
     } else {
         std::cerr << "Invalid argument" << std::endl;
         return 1;
