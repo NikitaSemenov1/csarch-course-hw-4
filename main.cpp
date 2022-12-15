@@ -1,5 +1,6 @@
 #include <string>
 #include <iostream>
+#include <filesystem>
 
 [[noreturn]] void start(int, int, int, int);
 
@@ -52,7 +53,7 @@ int main(int argc, char* argv[]) {
         // log to console
 
         hotel_size = rand() % 100 + 1;
-        threads_number = rand() % 8 + 1;
+        threads_number = rand() % 7 + 2;
         wait_range = rand() % 5 + 1;
         duration_range = rand() % 20 + 1;
         std::cout << "Generated:"
